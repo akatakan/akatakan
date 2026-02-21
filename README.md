@@ -8,14 +8,10 @@ Computer Engineer | Backend Developer (Go & Cloud)
 * 🛠️ **Tools & Tech:** - **Languages:** Go, Python, SQL.
 
 
-* 
-**Backend:** Docker, PostgreSQL, AWS (S3), REST APIs.
+* **Backend:** Docker, PostgreSQL, AWS (S3), REST APIs.
 
 
-* 
-**AI/NLP:** LLMs, LangGraph, PyTorch.
-
-
+* **AI/NLP:** LLMs, LangGraph, PyTorch.
 
 
 * 📫 **How to reach me:** - 📧 [atakanak48@gmail.com](mailto:atakanak48@gmail.com) 
