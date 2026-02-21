@@ -17,7 +17,7 @@ Computer Engineer | Backend Developer (Go & Cloud)
 * 📫 **How to reach me:** - 📧 [atakanak48@gmail.com](mailto:atakanak48@gmail.com) 
 
 
-* 💼 [LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/atakan-ak) 
+* 💼 [LinkedIn](https://linkedin.com/in/atakan-ak) 
 
 
 * 📍 Ordu, Turkey 
